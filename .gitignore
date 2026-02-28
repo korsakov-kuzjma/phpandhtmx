@@ -1,0 +1,13 @@
+/vendor/
+/storage/database.sqlite
+/storage/logs/*.log
+/storage/cache/*
+!storage/cache/.gitkeep
+/storage/uploads/*
+!storage/uploads/.gitkeep
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.env
